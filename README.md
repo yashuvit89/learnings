@@ -1,5 +1,5 @@
-# codeDaily
+# Learings
 
-Code Daily
 
-1.
+
+
